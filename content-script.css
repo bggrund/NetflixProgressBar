@@ -1,0 +1,16 @@
+#progressBar {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: darkgrey;
+}
+
+#progress {
+    width: 0%;
+    height: 5px;
+    background-color: red;
+}
+
+video {
+    margin-bottom: 5px !important;
+}
